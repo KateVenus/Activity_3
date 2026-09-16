@@ -1,4 +1,4 @@
-package com.venus.activity_2.ui.theme
+package com.venus.activity_3.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

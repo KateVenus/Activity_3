@@ -1,7 +1,7 @@
-package com.venus.activity_2.data
+package com.venus.activity_3.data
 
-import com.venus.activity_2.R
-import com.venus.activity_2.model.Affirmation
+import com.venus.activity_3.R
+import com.venus.activity_3.model.Affirmation
 
 class Datasource {
 

@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.venus.activity_2"
+    namespace = "com.venus.activity_3"
     compileSdk {
         version = release(37)
     }

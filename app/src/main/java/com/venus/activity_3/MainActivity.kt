@@ -1,4 +1,4 @@
-package com.venus.activity_2
+package com.venus.activity_3
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -23,9 +23,9 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.venus.activity_2.data.Datasource
-import com.venus.activity_2.model.Affirmation
-import com.venus.activity_2.ui.theme.Activity_2Theme
+import com.venus.activity_3.data.Datasource
+import com.venus.activity_3.model.Affirmation
+import com.venus.activity_3.ui.theme.Activity_3Theme
 
 class MainActivity : ComponentActivity() {
 
@@ -35,7 +35,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
 
         setContent {
-            Activity_2Theme {
+            Activity_3Theme {
 
                 Scaffold(
                     modifier = Modifier.fillMaxSize()
@@ -123,7 +123,7 @@ fun AffirmationCard(
 @Composable
 fun AffirmationsPreview() {
 
-    Activity_2Theme {
+    Activity_3Theme {
 
         AffirmationsApp()
     }

@@ -1,4 +1,4 @@
-package com.venus.activity_2.model
+package com.venus.activity_3.model
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes

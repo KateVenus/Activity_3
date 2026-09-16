@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity_2</string>
+
+    <string name="affirmation1">I love hiking pero sa hagdan.</string>
+    <string name="affirmation2">I don\'t know what to say.</string>
+    <string name="affirmation3">What a beautiful rice terraces.</string>
+    <string name="affirmation4">Hmmm depende kung beach yan.</string>
+</resources>
